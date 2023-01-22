@@ -76,7 +76,7 @@ public class Cliente {
 		return this.fechaNacimiento;
 	}
 	
-	//Creo método getIniciales
+	//Creo método privado getIniciales
 	
 	Scanner in = new Scanner(System.in);
 	
